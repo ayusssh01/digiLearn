@@ -33,7 +33,7 @@ This is a fully functional ed-tech platform that enables users to create, consum
 - **Seamless Learning Experience**: A seamless and interactive learning experience for students, making education more accessible and engaging. 
 - **Instructor Platform**: A platform for instructors to showcase their expertise and connect with learners across the globe.
 
-### Live Link : [https://edtech-digiLearn-frontend.vercel.app/](https://digilearn-omega.vercel.app/)
+### Live Link : https://digi-learn-plum.vercel.app/
 
 # Features🌟 <a name="features"></a>
 
